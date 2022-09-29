@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\User\Documents\C#\Калькулятор\docker\obj\Debug\net6.0-windows\
+C:\Users\User\Documents\C#\calc\Calculator\docker\obj\Debug\net6.0-windows\
 Calculator
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\User\Documents\C#\Калькулятор\docker\App.xaml
+C:\Users\User\Documents\C#\calc\Calculator\docker\App.xaml
 11407045341
 
 51868583911
 201-458737656
 MainWindow.xaml;
 
-True
+False
 

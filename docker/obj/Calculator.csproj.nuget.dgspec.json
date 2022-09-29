@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\C#\\Калькулятор\\docker\\Calculator.csproj": {}
+    "C:\\Users\\User\\Documents\\C#\\calc\\Calculator\\docker\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\C#\\Калькулятор\\docker\\Calculator.csproj": {
+    "C:\\Users\\User\\Documents\\C#\\calc\\Calculator\\docker\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\C#\\Калькулятор\\docker\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\C#\\calc\\Calculator\\docker\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\User\\Documents\\C#\\Калькулятор\\docker\\Calculator.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\C#\\calc\\Calculator\\docker\\Calculator.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\C#\\Калькулятор\\docker\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\C#\\calc\\Calculator\\docker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
